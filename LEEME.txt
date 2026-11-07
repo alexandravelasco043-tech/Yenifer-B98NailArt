@@ -1,0 +1,18 @@
+YENIFER BOLAÑOS NAILART – AGENDA
+
+Archivos de la aplicación. Sube TODOS estos archivos directamente a la raíz del repositorio GitHub (no subas solamente el ZIP):
+- index.html
+- manifest.json
+- sw.js
+- icon-192.png
+- icon-512.png
+- logo-yenifer.png
+- LEEME.txt
+
+En GitHub Pages selecciona Deploy from a branch, main y /(root).
+
+En Servicios y precios puedes editar el nombre y precio de cada servicio y adicional. Al seleccionar varios en una cita, los precios se suman automáticamente.
+En Ganancias puedes registrar gastos reales; estos se descuentan junto con gastos porcentuales, reinversión y Cuidado BB/niñera.
+El mensaje de WhatsApp incluye los datos de la cita y la regla de espera de 5 minutos. Escribe el teléfono con indicativo de país (Colombia +57).
+
+Los datos se guardan en el navegador de este dispositivo. Exporta copias de seguridad regularmente desde Configuración. La aplicación funciona sin conexión después de abrirse por primera vez con internet.
